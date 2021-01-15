@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Welcome Lovely Sensible People
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Some of you may have been travelling the strange and varied internet territories that emerge and disappear from the chaos,and may have stories you want to share, or find answers by listening to the tales of others. You may find what you are looking for here, otherwise keep searching and please do share if you hear of some curious tale that might illuminate.
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+#### An Invitation to contribute
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![thanks](/img/invite.jpg)
