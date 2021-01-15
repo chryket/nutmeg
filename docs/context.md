@@ -1,0 +1,59 @@
+## Strange digital thoughts
+
+I have been thinking about a new 'storage' system that this group might use. I know lots of you must be frustrated with all the tech talk going on at the moment, but if y'all will bear with me for a mo here's my perspective. 
+
+All of the best software in the world is free. And all of the big players rely on those free tools. Take sqlite for example, it's everywhere (from the password lock screen on your smart phone to your washing machine) and they have had to fight to keep those tools free from those who seek control and profit.
+These docs provide further insight. 
+
+[SQL terms and conditions](https://sqlite.org/codeofethics.html)
+
+[If you really need to buy it](https://www.sqlite.org/purchase/license?)
+
+![from the library that ](/img/stbenedict.jpg)
+
+
+
+Another good example is [git](https://www.git-scm.com/). This is a free tool, designed to solve a particular problem. At least 3 major new companies have formed to resell this free tool. I could go on...
+
+When I say free, it means open. You are still encouraged to contribute, either by asking and answering questions in the forums , improving the docs, working on the code base, or by donating money to the project .  To own your technology means to understand it.
+
+## the main point
+
+There is nothing a computer can do that does not start as a human need. If it can be used to communicate or make art or music or movies or just get work done faster so we have more time to spend in the real world, great, otherwise it should just be ignored and is not worth your time.  
+
+Whatever the relative merits of telegram vs signal, in this case I think it's more about fighting the consolidation of power. Whatsapp was a perfectly lovely bit of software until Facebook bought it. The end to end data is secure, but they really want the metadata to do all sorts of graph and network theory stuff with it. 
+
+
+## privacy
+On the complicated topic of privacy, I have adopted the position that everything that happens on or through a screen is public. Assuming otherwise can be dangerous.
+
+I've been thinking on how we might store all the links, docs and media in an accessible but protected public place.
+Looking through the group media and the gdrive and wondering how to structure all of the information reminded me of the Herotudus story, where the medical practice of the land he was traveling through was for the sick person to sit on the way somewhere and seek advice and discuss symptoms and remedies that people may have heard on thier travels.
+
+I thought we might use the idea as a structuring tool, ie folders might look like this, eg
+
+- Legalbeagleville
+- Village Herbal 
+- Mountains of malpractice
+- Sanity island
+- mazes of manipulation
+- Lockdonia.. You get the idea
+
+
+And as a format that would allow for the widest possible range of opinion and discussion while keeping your personal info safe both as protection from ad hominem attacks and legal implications for health workers who speak against the narrative. Then there's ethics. Shoo.
+
+
+And I am assuming that the intention of wanting to store and search all this info is to offer a counter narrative, as well as links for others in need of help,so we are going to need a web presence of our own. A wiki would be nice, project manager, maybe an issue page for discussion. 
+
+## possible solutions and pitfalls
+
+Ive put some technical bits about data size and cost here[here](/toolshed/).
+
+- video is expensive to serve and host. links are better
+- the size of the digital media you are sharing matters. 
+
+And some options for file sharing as well.  
+
+A lot this of this may be easier to show than explain, so I'll put this in a github repo as an example
+
+```git clone https://github.com/chryket/mkdocs-base.git```
