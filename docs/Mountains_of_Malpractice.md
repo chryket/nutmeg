@@ -3,15 +3,23 @@ have been circulating around the medical approach to ill-health and disease. Fee
 
 #### [peruvian-court-probing-judges](https://sputniknews.com/latam/202101121081739595-peruvian-court-probing-judges-ruling-alleging-soros-bill-gates-are-creators-of-covid-19-pandemic/)
 
+#### list of further links
 
-#### Alleged charges of committing THE GENOCIDE OF HUMANITY(Probably False)
+these should be searchable in the search bar. What you write in the square brackets is read by the search script, so consider what you would search for if you add a link.
+
+- [pcr test legally ruled useless to test](https://nexusnewsfeed.com/article/geopolitics/msm-deathly-silent-as-pcr-test-legally-ruled-useless-to-test-for-covid)
+- [critical-analysis-professor-raoults-therapeutic-protocol](https://www.francesoir.fr/opinions-tribunes/critical-analysis-professor-raoults-therapeutic-protocol)
+
+
+
+#### Alleged charges of committing THE GENOCIDE OF HUMANITY(Strangely presented!)
 
 
  United States Government v. Bill Gates, Melinda Gates, Anthony Fauci, Christina Grady, Tedros Adhanom, National Governors Association, CDC, WHO, Bill & Melinda Gates Foundation.
 
    ```Some thoughts when looking at this one. 
    Observe no https in links. Your hackles should rise when you see this. 
-    Whois reveals anon server in US registered with godaddy.```
+    Whois reveals anonymous server in US registered with godaddy.```
 
  
  Documents of the Hearings at the International Tribunal in the case of the organizers of the quarantine and mass vaccination.

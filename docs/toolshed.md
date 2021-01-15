@@ -26,3 +26,20 @@ You can find a chatbot app in one repository and recreate it in another. I like 
 
 [an alternative to git](https://fossil-scm.org/home/doc/trunk/www/index.wiki)
 
+### Nice recipes 
+
+![yum](https://blog.naveeraashraf.com/img/static-site.png)
+
+also notice the hotlinking above. not advised but will do in a pinch
+
+[and a look at how this site is generated](https://blog.naveeraashraf.com/posts/make-static-site-generator-with-python-2/) 
+from https://blog.naveeraashraf.com. or here at the [niqabi coder mum](https://theniqabicodermum.wordpress.com/)
+
+
+
+
+
+
+
+
+
