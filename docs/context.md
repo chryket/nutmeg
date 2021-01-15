@@ -45,15 +45,29 @@ And as a format that would allow for the widest possible range of opinion and di
 
 And I am assuming that the intention of wanting to store and search all this info is to offer a counter narrative, as well as links for others in need of help,so we are going to need a web presence of our own. A wiki would be nice, project manager, maybe an issue page for discussion. 
 
+Github gives us all of those out of the box. I thought we might craft a cunning narrative of peaceful propaganda in the wiki and the issues, and then present 
+
 ## possible solutions and pitfalls
 
 Ive put some technical bits about data size and cost here[here](/toolshed/).
 
 - video is expensive to serve and host. links are better
-- the size of the digital media you are sharing matters. 
+- the size of the digital media you are sharing matters. links, text, and screenshots are better than pdfs etc
 
-And some options for file sharing as well.  
 
-A lot this of this may be easier to show than explain, so I'll put this in a github repo as an example
 
-```git clone https://github.com/chryket/mkdocs-base.git```
+
+A lot this of this may be easier to show than explain, so I'll put this in a github repo as an [example](https://github.com/chryket/lands_of_herotodus)
+
+Anyone can contribute or edit. its public unless we pay or we step through some administrative hoops. Happy to do that for the group.
+
+### and some crazy stuff. 
+
+Although i have temporarily put this repo on github to use as an example, the idea is that the main branch will sit in one place, it could be on my hard drive, or somebody elses, and contributors have a local copy on thier machine. It's a little daunting to get started, but once you are over the hurdle you can start taking back control of the tech that already belongs to you anyway.
+
+It may be better to present as something not against anything. All war is deception and we are fighting for peoples minds. Maybe after some discussion in the [wiki](https://github.com/chryket/lands_of_herotodus/wiki) or the [issues](https://github.com/chryket/lands_of_herotodus/issues) or another place we can craft a cunning counter narrative of our own. The propaganda of peace?
+
+Idle thought - can we set up automated tool chain for information nexus of 8, linked groups of freedom cells, hmmm
+
+
+
