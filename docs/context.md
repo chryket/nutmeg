@@ -45,7 +45,7 @@ And as a format that would allow for the widest possible range of opinion and di
 
 And I am assuming that the intention of wanting to store and search all this info is to offer a counter narrative, as well as links for others in need of help,so we are going to need a web presence of our own. A wiki would be nice, project manager, maybe an issue page for discussion. 
 
-Github gives us all of those out of the box. I thought we might craft a cunning narrative of peaceful propaganda in the wiki and the issues, and then present 
+Github gives us all of those out of the box. I thought we might craft a cunning narrative of peaceful propaganda in the wiki and the issues, and then present a coordinated and considered response.
 
 ## possible solutions and pitfalls
 
@@ -53,8 +53,6 @@ Ive put some technical bits about data size and cost here[here](/toolshed/).
 
 - video is expensive to serve and host. links are better
 - the size of the digital media you are sharing matters. links, text, and screenshots are better than pdfs etc
-
-
 
 
 A lot this of this may be easier to show than explain, so I'll put this in a github repo as an [example](https://github.com/chryket/lands_of_herotodus)
