@@ -2,11 +2,14 @@
 
 ### legal docs
 
-way beyond my pay grade but here is a list of links to :
-
-__pdf's under 1 meg__
 
 
 ### Gov docs
+
+###### UPDATE ON SARS-COV-2 VACCINE ROLLOUT STRATEGY 
+
+link to [Gov statement on 7th January 2021](/wapdf/Health_Media_Statement7_January2021.pdf)
+
+<embed src="/wapdf/Health_Media_Statement7_January2021.pdf" width="800px" height="800px" />
 
 to be done
