@@ -10,6 +10,22 @@ also [keepass](https://keepass.info/)
 
 I expect the number of service providers to keep rising. Long passwords, random as you can, special characters and all.
 
+### Privacy
+
+![why it matters](https://coronavirus.westerncape.gov.za/sites/coronavirus.westerncape.gov.za/files/styles/large_nocrop/public/thumbnails/image/COGTA-fake-news.jpg)
+
+#### Some tools from the EFF that might help
+
+
+
+[Privacy Badger](https://privacybadger.org/)
+
+[HTTPS Everywhere](https://www.eff.org/https-everywhere/)
+
+
+
+[Surveillance Self-Defense : our expert guide to protecting you and your friends from online spying](https://ssd.eff.org/)
+
 ### git vs github vs gitlab vs not git
 
 All of these decisions are up to you. There are some links below. bear in mind that all software is really easy to copy and share.
@@ -34,6 +50,13 @@ also notice the hotlinking above. not advised but will do in a pinch
 
 [and a look at how this site is generated](https://blog.naveeraashraf.com/posts/make-static-site-generator-with-python-2/) 
 from https://blog.naveeraashraf.com. or here at the [niqabi coder mum](https://theniqabicodermum.wordpress.com/)
+
+
+
+
+
+
+
 
 
 
