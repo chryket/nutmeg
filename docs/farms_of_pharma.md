@@ -1,18 +1,30 @@
 ## farms of pharma facts
 
-### Embed a picture
+### Dwisamab
 
-![voice of the cape](/img/ivermectin.jpg)
-
-### How to embed a video
+Dr Tess Lawrie link to systematic review on [you tube](https://youtu.be/IgSlOeW_N4M)
 
 you can include html in the markdown doc in a pinch. Right click on the video and copy embed code . 
 
 
+<iframe width="713" height="401" src="https://www.youtube.com/embed/IgSlOeW_N4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="713" height="401" src="https://www.youtube.com/embed/sytPVQbhFi8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Just a list of links
+![voice of the cape](/img/ivermectin.jpg)
+
+https://www.iol.co.za/news/ivermectin-why-sahpra-is-granting-controlled-compassionate-use-for-covid-19-treatment-3acf6772-82e3-4016-88f0-2e661575f683
+
+https://www.dailymaverick.co.za/article/2021-01-27-ivermectin-and-covid-19-sa-drug-regulator-allows-controlled-compassionate-access/
+
+
+
+### Dr Wikus Nienaber
+
+<embed width="713" height="401" src="https://www.youtube.com/embed/sytPVQbhFi8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></embed>
+
+### Just a list of links that still needs sorting out
+
+https://www.libertyfighters.co.za/anti-lockdown/
 
 https://pandemic.news/2021-01-25-all-states-need-vaccine-bill-of-rights.html
 

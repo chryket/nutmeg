@@ -14,6 +14,8 @@ I expect the number of service providers to keep rising. Long passwords, random 
 
 ![why it matters](https://coronavirus.westerncape.gov.za/sites/coronavirus.westerncape.gov.za/files/styles/large_nocrop/public/thumbnails/image/COGTA-fake-news.jpg)
 
+TO DO 
+
 #### Some tools from the EFF that might help
 
 
@@ -41,6 +43,15 @@ You can find a chatbot app in one repository and recreate it in another. I like 
 [why not to use git](https://sqlite.org/whynotgit.html)
 
 [an alternative to git](https://fossil-scm.org/home/doc/trunk/www/index.wiki)
+
+### Alternate social media and messaging
+
+- pidgin
+- minds.com 
+	- https://www.wired.com/story/minds-anti-facebook/
+	- https://www.minds.com/
+
+
 
 ### Nice recipes 
 

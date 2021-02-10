@@ -24,3 +24,8 @@ link to [Lancet ivermectin study](/wapdf/LancetIvermectinStudyPublished14Jan2021
 
 link to [Rapid review of Ivermectin Lancet 14 Jan 2021](/wapdf/RapidreviewIvermectin.pdf)
 
+link to [Why did the CDC change thier reporting requirements](/wapdf/reportingbythecdc.pdf)
+
+![Do reporting requirements matter?](/img/deathdecline.jpg)
+
+
