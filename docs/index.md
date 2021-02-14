@@ -85,5 +85,5 @@ When do you get up?
     in the face of people dying
 
 ### More links
- - because i dont know where to put them
+ - 
  - [Americas front line doctors on vaccine safety india pfizer](https://www.americasfrontlinedoctors.com/aflds-calls-on-biden-white-house-cdc-to-address-indias-pfizer-covid-vaccine-safety-decision/)
