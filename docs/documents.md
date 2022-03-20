@@ -10,9 +10,7 @@
 
 link to [Gov statement on 7th January 2021](/wapdf/Health_Media_Statement7_January2021.pdf)
 
-###### compilation from nz
 
-link to [broader view from the real newz?](/wapdf/therealnewz.pdf)
 
 ### Medicine and policy
 
@@ -26,6 +24,6 @@ link to [Rapid review of Ivermectin Lancet 14 Jan 2021](/wapdf/RapidreviewIverme
 
 link to [Why did the CDC change thier reporting requirements](/wapdf/reportingbythecdc.pdf)
 
-![Do reporting requirements matter?](/img/deathdecline.jpg)
+
 
 
