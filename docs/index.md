@@ -7,17 +7,20 @@
 </div>
 
 
-## A Gallery Of Rogues
+## Questions
 
 Click on the thumbnail to read more and send your own response. 
 
-coming soon
 
+lots of big red buttons coming
 
+<button type="button" class="btn btn-danger">BOOM</button>
+
+<button type="button" class="btn btn-warning">CLICK ME</button>
+
+<button type="button" class="btn btn-danger">PUSH ME</button>
 
 ## Comments 
-
-ha ha no validation yet. 
 
 <form name="contact" method="POST" data-netlify="true">
   <p>
