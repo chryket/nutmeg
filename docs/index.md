@@ -14,10 +14,10 @@
   <div class="col">
       
 <div class="card">
-  <img class="card-img-top" src="img_avatar1.png" alt="Card image">
+  <img class="card-img-top" src="img/test.png" alt="Card image">
     <div class="card-body">
-        <h4 class="card-title">John Doe</h4>
-        <p class="card-text">Some example text.</p>
+        <h4 class="card-title">William Bird</h4>
+        <p class="card-text">Why.</p>
         <a href="#" class="btn btn-primary">See Profile</a>
     </div>
 </div>
