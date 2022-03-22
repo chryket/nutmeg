@@ -9,9 +9,3 @@
 
 ...coming soon
 
-link to [Gov statement on 7th January 2021](/wapdf/Health_Media_Statement7_January2021.pdf)
-
-
-[Why did the CDC change thier reporting requirements](/wapdf/reportingbythecdc.pdf)
-
-
