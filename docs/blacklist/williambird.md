@@ -1,23 +1,8 @@
-
-
-## Alan Winde
-
-letter: 
-
-## SAHPRA
-
-letter:MArc Blockman
-
-
-## Marc Mendelsohn
-
-letter:
-
-## William Bird
+# William Bird
 
 ### Email to William Bird
 reference augustus.mokoka@undp.org. Zoom Webinar ID:   817 5931 9051
-cc: communications@irex.org
+cc: communications@irex.org,,info@theredlist.co.za
 
 Dear William Bird 
 
@@ -70,20 +55,3 @@ Looking forward to hearing your response
 
 
 augustus.mokoka@undp.org. Zoom Webinar ID:   817 5931 9051
-
-## THE Ministerial Advisory Committee
-
-letter:
-
-## The Daily Maverick
-
-letter:
-
-## HPCSA
-
-letter:
-
-Marc Blockman
-University of Cape Town
-Verified email at uct.ac.za
-

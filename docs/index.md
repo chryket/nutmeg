@@ -1,10 +1,55 @@
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
-    <h1 class="display-4">An Open Invitation</h1>
-    <p class="lead">Some of the people listed below claim to know what's going on. We thought we'd ask them! </p>
-    <p> Turns out that they are not very good at answering thier mail. We thought we'd make it easier for them to reply. </p>
+    <h1 class="display-4 text-center">An Open Invitation</h1>
+    <p class="lead text-center">To Those Who Claim To Be  Guardians Of Health And Democracy.</p>
+    <p class="lead text-center">We have some questions.</p>
+    <p class="text-center">You seem to be struggling a little with the demands of a rapidly changing world. We'd like to help. In the interests of transparency we thought we might pose some questions here. We can also publish your response.</p>
+    </div>
+</div>
+
+
+## A Gallery Of Rogues
+
+<div class="row">
+  <div class="col">
+      
+<div class="card">
+  <img class="card-img-top" src="img_avatar1.png" alt="Card image">
+    <div class="card-body">
+        <h4 class="card-title">John Doe</h4>
+        <p class="card-text">Some example text.</p>
+        <a href="#" class="btn btn-primary">See Profile</a>
+    </div>
+</div>
+
+  </div>
+  <div class="col">
+
+  <div class="card">
+  <img class="card-img-top" src="/img/saphra.jpg" alt="Card image">
+    <div class="card-body">
+        <h4 class="card-title">SAPHRA</h4>
+        <p class="card-text">Some example text.</p>
+        <a href="#" class="btn btn-primary">See Profile</a>
+    </div>
+</div>
+      
+
+  </div>
+  <div class="col">
+      
+<div class="card">
+  <img class="card-img-top" src="img_avatar1.png" alt="Card image">
+    <div class="card-body">
+        <h4 class="card-title">John Doe</h4>
+        <p class="card-text">Some example text.</p>
+        <a href="#" class="btn btn-primary">See Profile</a>
+    </div>
+</div>
+
   </div>
 </div>
+
 
 
 ## Questions
@@ -38,7 +83,7 @@ lots of big red buttons coming
 
 
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://www.thecarronade.com)
+
 
 
 

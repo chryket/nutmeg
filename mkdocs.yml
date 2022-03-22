@@ -1,5 +1,7 @@
 site_name: The Carronade
-theme: slate
+theme: 
+  name: lux
+  custom_dir: cannon_theme
 
 
 
