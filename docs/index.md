@@ -3,7 +3,7 @@
     <h1 class="display-4 text-center">An Open Invitation</h1>
     <p class="lead text-center">To All Those Who Would Like To Know More</p>
     <p class="lead text-center">We also have questions.</p>
-    <p class="text-center">The current ruling class seem to be struggling with the demands of a rapidly changing world. We'd like to help. In the interests of transparency we thought we might pose some questions to our public officials.</p>
+    <p class="text-center">The current ruling class seem to be struggling with the demands of a rapidly changing world. We'd like to help. In the interest of transparency we thought we might pose some questions to our public officials.</p>
     </div>
 </div>
  
