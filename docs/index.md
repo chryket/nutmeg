@@ -19,15 +19,17 @@ Psychologists are not worth questioning. They do not know anything. They only re
 
 [![Bounty](img/bounty.png)](https://telegra.ph/Theres-none-so-blind-as-those-who-will-not-see-03-23)
 
+You can [read more about ivermectin](evidence/#ivermectin) here.
+
 ### Runners up award to 
 
 Tanya Farber: journalist.
 Talia Greyling: Expert - University of Johannesburg
-Stephanie Rossouw, Expert - formerly of North West University, now supposedly seeking funding somewhere else. 
+Stephanie Rossouw, Expert - formerly of North West University, now supposedly seeking funding further south . 
 
 ![scamdemics](img/scamdemics.jpg)
 
-TO Be done....
+These are academics who have completed a study based on tweets. Hmmm. Are they aware that twitter is a manipulated platform. Now that would be an interesting field of study. Or how two different people might see completely different news about an event depending on the way they consume media. When did academic researchers get so dumbed down?    
 
 
 ## A Gallery Of Questions
