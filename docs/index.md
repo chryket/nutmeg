@@ -25,7 +25,8 @@
  <div class="col card">
   <img class="card-img-top" src="img/test.png" alt="Card image">
         <div class="card-body">
-        <h4 class="card-title">These information brokers appear to be well sponsored but are they honest?</p>
+        <h4 class="card-title">Media Monitoring Africa</h4> 
+        <p class="card-text">These information brokers are well sponsored but are they honest?</p>
         <a href="/questions/media" class="btn btn-info">Media Questions</a>
          </div>
  </div>
@@ -70,13 +71,17 @@ What about the natural immunity that you mentioned earlier?
 
 Whether this experimental treatment is ,or is not, currently mandatory in SA is academic to the many who have lost their jobs or been coerced into taking a useless, unneccessary and quite possibly harmful shot in the arm.  
 
-Later in the article they mention the "wastewater surveillance for SARS-CoV-2, which is a very useful predictor of community transmission levels". This wastewater surveillance dashboard has been maxed out for months. We surmise because the tseting is so lucrative. 
+Later in the article they mention the "wastewater surveillance for SARS-CoV-2, which is a very useful predictor of community transmission levels". This wastewater surveillance dashboard has been maxed out for months. We surmise because the testing is so lucrative. 
 
 Most of south africa would agree with your final paragraph. 
 
 ![finalpara](img/finpara.png)
 
 Maybe you could spend some of the large amounts of public money that have gone to the 'vaccination' project on some other health care requirements, and please advise the education department to take the masks off our children.
+
+The authors might be considered the most senior of the health service senior managerial services, and we should look to them for accountability too.  
+
+---
 
 
 ## Yesterdays News
