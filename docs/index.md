@@ -44,18 +44,16 @@
 
 Uh, sorry Arena, we are the media now. You are doing a terrible job. We invite all your employees to come and work for us.  
 
-Andrew Gill needs a logic check. <info@arena.africa> <jamaln@arena.africa>
+Andrew Gill needs a logic check
 
 <div class="row">
   <div class="col">
       <img src="/img/arenah.png" class="rounded" alt='letter'>
   </div>
   <div class="col">
-      <img src="/img/arenot.png" class="rounded" alt='letter'>
+      <img src="/img/arenot.png" class="rounded" alt='letter2'>
   </div>
 </div>
-
-INFO@ARENA.AFRICA Jamal N <jamaln@arena.africa>
 
 He writes "the virus is constantly changing" without any awareness of how this  constant change makes it unlikely that a 'vaccine' is going  to meet with success. The cure for the common cold also remains elusive. 
 
@@ -63,7 +61,6 @@ The meaningless business jargon about being prepared and having the "ability to 
 
 The entire last paragraph is against the law. It's also ignorant. There are some really good legal resources that can be found on the  [redlist](https://theredlist.co.za/en/protocols-and-precedents), or [liberty fighters](https://www.libertyfighters.co.za/) or [PANDA](https://www.pandata.org/). There is also the cease and desist order from the World Council for Health. 
 
-<iframe src="wapdf/cease-and-desist-1.pdf" title="Cease and desist" width="100%" height="20%"></iframe> 
 
 ---
 
