@@ -2,18 +2,18 @@
 
 ## To SAPHRA 
 
-![noity boity](blacklist/img/boity.png)
+![tumi](questions/img/boity.png)
 
 to:Boitumelo.Semete@SAHPRA.org.za, Helen.Rees@SAHPRA.org.za 
 CC: info@THJ-Africa.org.za
 
 from: thecarronade
 
-Subject: SAHPRA — Do The Right Thing: Noity Boity!
+Subject: SAHPRA — Do The Right Thing!
 
-Dear Noity Boity, Helen Ree s, and the rest of the public functionaries at SAPHRA.  
+Dear Boitumelo Semete and Helen Ree s  
 
-** What is going on over there? **
+** What is going on over at SAHPRA? **
 
 SAHPRA is an entity of the National Department of Health, created by the South African Government to ensure the health and well-being of humans and animals. 
 
@@ -21,7 +21,7 @@ Or at least that's what your [website](https://www.sahpra.org.za/who-we-are/) sa
 
 <img src="/img/infocrime.png" class="img-fluid float-right" alt="no words" width="50%">
 
-PLease could SAHPRA clarify the risks and benefits of the Pfizer Comirnaty vaccine for us,  the foolish and ignorant public, in an open and transparent way. We grow weary of approaching the courts. 
+PLease could SAHPRA clarify the risks and benefits of the Pfizer Comirnaty vaccine in an open and transparent way. We grow weary of approaching the courts. 
 
 There is much confusion and little trust. The much-marketed claim is that the novel mRNA treatment is safe and effective. SAPHRA has been mandated to validate the claims that this treatment is safe and effective.   
 
@@ -95,6 +95,7 @@ Looking forward to hearing your response.
 PLease do contact us here of you have any questions
 
 <a href="/context/#contact-us" class="btn btn-danger" role="button">special button for William Bird</a>
+
 
 
 

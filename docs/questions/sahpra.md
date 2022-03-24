@@ -2,7 +2,13 @@
 
 ### SAHPRA rejects human rights
 
-Extract From [Transformative Health Justice](https://thj-africa.org.za/)
+The latest press release from SAHPRA refers.11 March 2022
+
+Titled [SAHPRA clarifies the risks and benefits of the Pfizer Comirnaty vaccine](https://www.sahpra.org.za/news-and-updates/sahpra-clarifies-the-risks-and-benefits-of-the-pfizer-comirnaty-vaccine/) it makes no sense when contrasted with SAPHRA'S responses in court and correspondence. 
+
+You can read SAPHRA's response to THJ and SAVAERS here
+
+Here's a brief extract From [Transformative Health Justice](https://thj-africa.org.za/)
 
 SAHPRA rejects human rights in their reply to South African doctors about C19 injections.
 
@@ -63,3 +69,5 @@ Sometimes we just find these floating around on social media. We wonder if this 
 <a href="/letters/#to-saphra" class="btn btn-info" role="button">Read Our Letter</a>
 
 <input type="submit" class="btn btn-danger" value="SEnd Your Own Letter">
+
+coming soon...

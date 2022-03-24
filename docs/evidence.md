@@ -44,7 +44,24 @@ Thanks for your patience.
 
 You can see from the waiver request that Pfizer believes that the existing reporting methods are sufficiently robust to ensure optimal pharmacovigilance and safe dispensing.
 
-Why is this not enough for SAPHRA. And where is the South African pharmacovigilance reporting system? The only one we can find is [SAVAERS](https://savaers.co.za/). 
+Where is the South African pharmacovigilance reporting system? The only one we can find is [SAVAERS](https://savaers.co.za/). 
+
+The South African Health Products Regulatory Authority(SAHPRA) is mandated to ensure the
+
+- safety
+- efficacy
+- quality
+
+of all *health products*. Yet they are unable to produce any studies that should be readily available if they were doing thier job. Apparently they are  trusting pfizer, the makers of the experimental drug. Or the WHO, or even the FDA. 
+
+It might be useful to think of pfizer as a complex financial instrument. A many headed beast, a gorgon of greed, 10 000 different corporate entities tied up in a gordian knot of legal mysteries, rather than a companhy that has any particlar individuals welfare at heart. The manual suggest swords are required to cut through knots like this.
+
+
+
+[more about SAPHRA](blacklist/#sahpra) 
+
+
+
 
 ## Changing language definitions
 
@@ -57,6 +74,33 @@ coming soon...
 ## Informed Consent
 
 Question. [How can there be informed consent without information?](/blacklist/saphra/#informed-consent)
+
+## Problems with testing
+
+[![enter the pcr](img/enterpcr.png)](https://remnantmd.substack.com/p/how-the-who-captured-your-constitution?s=r)
+
+## The Illusion Of Evidence Based Medicine
+
+[from the british medical journal](https://www.bmj.com/content/376/bmj.o702)
+
+![from the bmj](img/bmj.png)
+
+## Discussions about data
+
+#### substacks
+
+boriquagato
+Can we believe the CDC never thought of this. [Read The Cat's analysis](https://boriquagato.substack.com/p/cdc-reports-of-historical-covid-deaths)
+
+coquindechien
+legal calculus of a death lottery
+https://coquindechien.substack.com/p/the-legal-calculus-of-a-death-lottery
+
+#### from panda
+
+#######
+
+https://www.pandata.org/covid-19-deaths-underreported-or-overestimated/
 
 
 
