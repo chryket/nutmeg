@@ -1,9 +1,8 @@
-## Evidence
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
     <h1 class="display-4">Evidence Locker</h1>
     <p class="lead">Nothing but the sauce! </p>
-    <p> Any compelling documents, links and sources will be posted here and crosslinked with the articles for easy access. </p>
+    <p> Any compelling documents, links and sources will be posted here and crosslinked with the articles for easy access. Currently under heavy construction.</p>
   </div>
 </div>
 
@@ -19,7 +18,17 @@ to be done
 
 ## The Vaccines Are Not A Vaccine
 
-Yep. Well, not unless you change the definition of a vaccine. 
+Yep. Well, not unless you change the definition of a vaccine.
+
+## The Treatment Is Still In Trial
+
+see for yourself
+
+![trial dates](/blacklist/img/trialdate.png)
+
+or follow the links from the fact checkers themselves.
+<kbd> [bonus](/blacklist/media/#extra-bonus)</kbd>
+
 
 ## The Treatment is not safe or effective
 
@@ -43,10 +52,15 @@ coming soon...
 
 ## Ivermectin
 
-comomg soon...
+coming soon...
+
+## Informed Consent
+
+Question. [How can there be informed consent without information?](/blacklist/saphra/#informed-consent)
 
 
 
+ 
 
 
 

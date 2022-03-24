@@ -6,9 +6,11 @@
     <p class="text-center">The current ruling class seem to be struggling with the demands of a rapidly changing world. We'd like to help. In the interest of transparency we thought we might pose some questions to our public officials.</p>
     </div>
 </div>
- 
-
 ## Todays News
+
+coming soon....
+
+## Yesterdays News
 
 ### Question of the day goes to Mr Swart.
 
@@ -29,10 +31,22 @@ Stephanie Rossouw, Expert - formerly of North West University, now supposedly se
 
 ![scamdemics](img/scamdemics.jpg)
 
-These are academics who have completed a study based on tweets. Hmmm. Are they aware that twitter is a manipulated platform. Now that would be an interesting field of study. Or how two different people might see completely different news about an event depending on the way they consume media. When did academic researchers get so dumbed down?    
+These are academics who have completed a study based on tweets. Hmmm. Are they aware that twitter is a manipulated platform. Now that would be an interesting field of study. Or how two different people might see completely different news about an event depending on the way they consume media. When did academic researchers get so dumbed down? 
+
+###### A few questions for Tanya Farber.
+
+1. What do the following sources you mention in the article above have in common?
+
+     + [Shabir Madhi - vaccinologist, Ministerial adviser](blacklist/#mac)
+     + Wolfgang Preizer
+     + [Stavros Nicolau](blacklist/#b4sa)
+
+2. Do you feel you have fairly represented both sides of the story?
 
 
 ## A Gallery Of Questions
+
+Coming soon....
 
 
 
