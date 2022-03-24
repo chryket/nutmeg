@@ -31,6 +31,9 @@ mask induced deoxygenation
 
 Results: Our study revealed a decrease in the oxygen saturation of arterial pulsations (SpO2) 
 
+https://www.aier.org/article/the-dangers-of-masks/
+
+https://covidcalltohumanity.org/2021/04/29/meta-study-shows-that-masks-are-dangerous/
 
 physiological impact of wearing an N95 mask
 https://pubmed.ncbi.nlm.nih.gov/15340662/
@@ -78,7 +81,7 @@ see for yourself
 ![trial dates](/blacklist/img/trialdate.png)
 
 or follow the links from the fact checkers themselves.
-<kbd> [bonus](/blacklist/media/#extra-bonus)</kbd>
+[bonus](/blacklist/media/#extra-bonus)
 
 
 ## The Treatment is not safe or effective
@@ -93,13 +96,18 @@ Thanks for your patience.
 
 baseline: to be done
 
-###### Vigibase
+### Vigibase
+ 
+to be done
 
 
+### VAERS
 
-###### VAERS
+to be done
 
-###### SAVAERS
+###SAVAERS
+
+to be done
 
 ## Emergency Use Authorisation
 
@@ -121,7 +129,7 @@ It might be useful to think of pfizer as a complex financial instrument. A many 
 
 
 
-[more about SAPHRA](blacklist/#sahpra) 
+[more about SAPHRA](questions/#sahpra) 
 
 
 
@@ -153,17 +161,14 @@ Question. [How can there be informed consent without information?](/blacklist/sa
 #### substacks
 
 boriquagato
-Can we believe the CDC never thought of this. [Read The Cat's analysis](https://boriquagato.substack.com/p/cdc-reports-of-historical-covid-deaths)
+[Can we believe the CDC never thought of this. Read The Cat's analysis](https://boriquagato.substack.com/p/cdc-reports-of-historical-covid-deaths)
 
 coquindechien
-legal calculus of a death lottery
-https://coquindechien.substack.com/p/the-legal-calculus-of-a-death-lottery
+[legal calculus of a death lottery](https://coquindechien.substack.com/p/the-legal-calculus-of-a-death-lottery)
 
 #### from panda
 
-#######
-
-https://www.pandata.org/covid-19-deaths-underreported-or-overestimated/
+[covid reporting](https://www.pandata.org/covid-19-deaths-underreported-or-overestimated/)
 
 
 
