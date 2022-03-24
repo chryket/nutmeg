@@ -59,7 +59,7 @@ but a litte later they suggest that the primary focus should be ..
     to prevent severe disease and death 
     from Covid-19. "
 
-Why is vaccination neccessary if there is >80 % immunity? It is no longer a secret that the "vaccination" does not prevent severe disease and death. I suggest to the authors that this may be one of the reasons that people are more than hesitant to take thier chances with what has now become known colloquialy as the clot shot. Marc Mendelson might call it thrombo-bollocks. A more serious issue is the trust in health workers has been shattered. 
+Why is vaccination neccessary if there is >80 % immunity? It is no longer a secret that the "vaccination" does not prevent severe disease and death. I suggest to the authors that this may be one of the reasons that people are more than hesitant to take thier chances with what has now become colloquially known as the clot shot. Marc Mendelson might call it thrombo-bollocks. A more serious issue is that trust in health workers has been shattered. 
 
 Possibly because they still repeat the false mantra that there is **only one solution**. 
 
