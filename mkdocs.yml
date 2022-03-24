@@ -2,7 +2,7 @@ site_name: The Carronade
 site_url: https://www.thecarronade.com
 repo_name: https://github.com/chryket/nutmeg
 theme: 
-  name: lux
+  name: cyborg
   custom_dir: cannon_theme
 
 

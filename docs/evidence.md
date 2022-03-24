@@ -10,11 +10,62 @@
 
 The health experts are divided. Some caring few are aware of the complexity and potential harms that could result from prolonged or inapproppiate mask use.
 
-Others, who all appear to benefit greatly from the same sources of funding,   insist on mandating against all logic and reason. 
+Others, who all appear to benefit greatly from the same sources of funding,   insist on mandating against all logic and reason. The recent dowgrading of early childhood development milestones are a testament to the damage that these badly considered policies continue to inflict on the most vulnerable.
 
-### Partial List Of Studies
+### Partial List Of Studies relating to masks
 
-to be done
+This study says you have over three times the risk of contracting influenza like illness if a cloth mask is used.
+
+<div class="card">
+  <div class="card-header">A cluster randomised trial of cloth masks compared with medical masks in healthcare workers</div>
+  <div class="card-body">The conclusions from this Vietmanese study(2015): 
+ Moisture retention, reuse of cloth masks and poor filtration may result in increased risk of infection. Cloth masks should not be recommended for HCWs, particularly in high-risk situations, and guidelines need to be updated.</div>
+  <div class="card-footer">
+  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4420971/" class="btn btn-info" role="button">www.ncbi.nlm.nih.gov/pmc/articles/PMC4420971/</a></div>
+</div>
+
+
+mask induced deoxygenation
+
+<a href="https://pubmed.ncbi.nlm.nih.gov/18500410/" class="btn btn-info" role="button">mask induced deoxygenation</a>
+
+Results: Our study revealed a decrease in the oxygen saturation of arterial pulsations (SpO2) 
+
+
+physiological impact of wearing an N95 mask
+https://pubmed.ncbi.nlm.nih.gov/15340662/
+Conclusion: Wearing an N95 mask for 4 hours during HD significantly reduced PaO2 and increased respiratory adverse effects in ESRD patients. 
+
+https://www.nature.com/articles/s41598-018-35797-3
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4420971/
+
+https://principia-scientific.com/?s=mask
+
+
+https://kellybroganmd.com/masks-have-you-been-captured
+
+
+https://bmjopen.bmj.com/content/5/4/e006577.full
+
+https://www.cidrap.umn.edu/news-perspective/2020/04/data-do-not-back-cloth-masks-limit-covid-19-experts-say
+ 
+The Physiological Impact of Wearing an N95 Mask During Hemodialysis as Precaution against SARS in Patients With End-Stage Renal Disease:
+https://pubmed.ncbi.nlm.nih.gov/15340662/
+ 
+Preliminary Report on Surgical Mask Induced Deoxygenation During Major Surgery:
+https://pubmed.ncbi.nlm.nih.gov/18500410/
+ 
+Rational use of face masks in the COVID-19 pandemic
+https://www.thelancet.com/article/S2213-2600(20)30134-X/fulltext
+ 
+Cloth masks can increase infection:
+https://www.who.int/publications/i/item/advice-on-the-use-of-masks-in-the-community-during-home-care-and-in-healthcare-settings-in-the-context-of-the-novel-coronavirus-(2019-ncov)-outbreak
+
+**From the WHO: There is limited evidence that wearing a medical mask by healthy individuals in the households or among contacts of a sick patient, or among attendees of mass gatherings may be beneficial as a preventive measure.14-23 However, there is currently no evidence that wearing a mask (whether medical or other types) by healthy persons in the wider community setting, including universal community masking, can prevent them from infection with respiratory viruses, including COVID-19.**
+
+
+ 
 
 ## The Vaccines Are Not A Vaccine
 
@@ -37,6 +88,18 @@ long list
 
 This page still under developement. 
 Thanks for your patience. 
+
+## Signals Of Harm
+
+baseline: to be done
+
+###### Vigibase
+
+
+
+###### VAERS
+
+###### SAVAERS
 
 ## Emergency Use Authorisation
 

@@ -40,7 +40,7 @@ Santhani Chetty <santhani.chetty@sahpra.org.za>
 ## Informed Consent
 text extract from enca news
 
-    i just want to highlight why SAPHRA
+    "i just want to highlight why SAPHRA
     says they're not available, SAPHRAa cannot
     use the information, the documents, the
     evidence provided to them by pfizer because this
@@ -48,7 +48,7 @@ text extract from enca news
     and pfizer has not agreed for this
     information to be made to the public so
     it puts SAPHRA in a bit of a difficult
-    position 
+    position "
 
 <iframe width="708" height="398" src="https://www.youtube.com/embed/su-o6n660yQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
