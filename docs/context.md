@@ -19,7 +19,7 @@ The team
 
 ## disclaimer
 
-This website is an exercise in churnalism. We make every attempt to keep to the facts. If you disagree with anything we have said please do contact us using the form below and we will get back to you as soon as possible.
+This website is an exercise in rapid change. We make every attempt to keep to the facts. If you disagree with anything we have said please do contact us using the form below and we will get back to you as soon as possible.
 
 ## Contact Us
 

@@ -1,6 +1,6 @@
 site_name: The Carronade
 theme: 
-  name: slate
+  name: lux
   custom_dir: cannon_theme
 
 

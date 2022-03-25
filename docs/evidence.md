@@ -14,7 +14,7 @@ Others, who all appear to benefit greatly from the same sources of funding,   in
 
 ### Partial List Of Studies relating to masks
 
-This study says you have over three times the risk of contracting influenza like illness if a cloth mask is used.
+This study from 2015 suggests there is three times the risk of contracting influenza-like illness if a cloth mask is used.
 
 <div class="card">
   <div class="card-header">A cluster randomised trial of cloth masks compared with medical masks in healthcare workers</div>
@@ -25,40 +25,28 @@ This study says you have over three times the risk of contracting influenza like
 </div>
 
 
-mask induced deoxygenation
-
-<a href="https://pubmed.ncbi.nlm.nih.gov/18500410/" class="btn btn-info" role="button">mask induced deoxygenation</a>
-
-Results: Our study revealed a decrease in the oxygen saturation of arterial pulsations (SpO2) 
-
-https://www.aier.org/article/the-dangers-of-masks/
-
-https://covidcalltohumanity.org/2021/04/29/meta-study-shows-that-masks-are-dangerous/
-
-physiological impact of wearing an N95 mask
-https://pubmed.ncbi.nlm.nih.gov/15340662/
-Conclusion: Wearing an N95 mask for 4 hours during HD significantly reduced PaO2 and increased respiratory adverse effects in ESRD patients. 
-
-https://www.nature.com/articles/s41598-018-35797-3
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4420971/
-
-https://principia-scientific.com/?s=mask
+There is a lot of evidence to suggest that there are many psychological and physiological factors that have been under represented in the corporate media. 
 
 
-https://kellybroganmd.com/masks-have-you-been-captured
 
+<div class="card">
+  <div class="card-header">Effectiveness of Adding a Mask Recommendation </div>
+  <div class="card-body">The conclusions: 
+ The data were compatible with lesser degrees of self-protection. </div>
+  <div class="card-footer">
+  <a href="https://pubmed.ncbi.nlm.nih.gov/33205991/" class="btn btn-info" role="button">www.ncbi.nlm.nih.gov/pmc/articles/PMC4420971/</a></div>
+</div>
+
+a brief list that we will get round to sorting out eventually
+
+
+<a href="https://principia-scientific.com/forty-five-years-of-mask-studies-prove-theyre-worthless/" class="btn btn-info" role="button">forty-five-years-of-mask-studies-prove-theyre-worthless</a>
+<a href="https://www.aier.org/article/the-dangers-of-masks/" class="btn btn-info" role="button">The dangers of masks from AIER</a>
 
 https://bmjopen.bmj.com/content/5/4/e006577.full
-
 https://www.cidrap.umn.edu/news-perspective/2020/04/data-do-not-back-cloth-masks-limit-covid-19-experts-say
  
-The Physiological Impact of Wearing an N95 Mask During Hemodialysis as Precaution against SARS in Patients With End-Stage Renal Disease:
-https://pubmed.ncbi.nlm.nih.gov/15340662/
- 
-Preliminary Report on Surgical Mask Induced Deoxygenation During Major Surgery:
-https://pubmed.ncbi.nlm.nih.gov/18500410/
- 
+
 Rational use of face masks in the COVID-19 pandemic
 https://www.thelancet.com/article/S2213-2600(20)30134-X/fulltext
  
@@ -98,7 +86,7 @@ baseline: to be done
 
 ### Vigibase
  
-to be done
+Vigibase is 
 
 
 ### VAERS
@@ -136,7 +124,7 @@ It might be useful to think of pfizer as a complex financial instrument. A many 
 
 ## Changing language definitions
 
-coming soon...
+![why the change of language](img/lingo1.png)
 
 ## Ivermectin
 
