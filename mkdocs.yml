@@ -1,6 +1,6 @@
 site_name: The Carronade
 theme: 
-  name: cerulean
+  name: cyborg
   custom_dir: cannon_theme
 
 

@@ -44,7 +44,7 @@
 
 Uh, sorry Arena, we are the media now. You are doing a terrible job. We invite all your employees to come and work for us.  
 
-Andrew Gill needs a logic check
+Andrew Gill needs a logic check. We provide it below.
 
 <div class="row">
   <div class="col">
@@ -55,11 +55,17 @@ Andrew Gill needs a logic check
   </div>
 </div>
 
-He writes "the virus is constantly changing" without any awareness of how this  constant change makes it unlikely that a 'vaccine' is going  to meet with success. The cure for the common cold also remains elusive. 
+He writes 
+
+    "the virus is constantly changing" 
+
+without any awareness of how this  constant change makes it unlikely that any traditional 'vaccine' is going  to meet with success. The cure for the common cold also remains elusive. 
 
 The meaningless business jargon about being prepared and having the "ability to mitigate *any* risk posed to our employees" implies that your employees are at risk from your own staff, and  does not flow with logical ease into the call for mandated medical treatment. 
 
-The entire last paragraph is against the law. It's also ignorant. There are some really good legal resources that can be found on the  [redlist](https://theredlist.co.za/en/protocols-and-precedents), or [liberty fighters](https://www.libertyfighters.co.za/) or [PANDA](https://www.pandata.org/). There is also the cease and desist order from the World Council for Health. 
+The entire last paragraph is against the law. It's also ignorant. There are some really good legal resources that can be found on the  [redlist](https://theredlist.co.za/en/protocols-and-precedents), or [liberty fighters](https://www.libertyfighters.co.za/) or [PANDA](https://www.pandata.org/). There is also the [cease and desist order](https://worldcouncilforhealth.org/campaign/covid-19-vaccine-cease-and-desist/) from the World Council for Health. We suggest you read them all.
+
+
 
 
 ---
@@ -67,6 +73,8 @@ The entire last paragraph is against the law. It's also ignorant. There are some
 ###### From the daily maverick [dm](https://archive.is/tb3iP)
 
 This article by Marc Mendelson, Shabir A Madhi, Jeremy Nel, Glenda Gray, Regina Osih and Francois Venter correctly points out that the government regulations are ill conceived but there are no less than four members of the ministerial advisory committee in this list of authors. They change so this might no longer be correct. Are they relying on some kind of collective amnesia? 
+
+**If we have greater than 80 percent collective immunity, why the need for a novel treatment that does not work as advertised?** 
 
 ![disaster](img/scibug.png)
 
