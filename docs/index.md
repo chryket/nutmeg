@@ -70,13 +70,15 @@ The entire last paragraph is against the law. It's also ignorant. There are some
 
 ---
 
-###### From the daily maverick [dm](https://archive.is/tb3iP)
+### From the daily maverick [archive](https://archive.is/tb3iP)
+
+![disaster](img/scibug.png)
 
 This article by Marc Mendelson, Shabir A Madhi, Jeremy Nel, Glenda Gray, Regina Osih and Francois Venter correctly points out that the government regulations are ill conceived but there are no less than four members of the ministerial advisory committee in this list of authors. They change so this might no longer be correct. Are they relying on some kind of collective amnesia? 
 
 **If we have greater than 80 percent collective immunity, why the need for a novel treatment that does not work as advertised?** 
 
-![disaster](img/scibug.png)
+
 
 We have questions for all of these scientists.  Are they trying to distance themselves from the catastrophic consequences while at the same time urging us to keep on the same disastrous path.
 

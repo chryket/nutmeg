@@ -124,11 +124,24 @@ It might be useful to think of pfizer as a complex financial instrument. A many 
 
 ## Changing language definitions
 
+This is another big subject. 
+
 ![why the change of language](img/lingo1.png)
 
-## Ivermectin
 
-coming soon...
+## Ivermectin 
+
+[![Archive](https://img.shields.io/badge/from%20the%20archive-2021/09/16-darkblue.svg)](/questions/other/#about-that-horse-paste)
+
+
+Ivermectin is safe and can be used on a wide scale, says the [WHO](https://archive.is/FizVA). It has single-handedly transformed the lives of millions of people suffering from onchocerciasis since its introduction in 1987.
+
+It has also been shown to be effective against other diseases. Dr Tess Lawrie from the WCH recently exposed how this evidence has been suppressed.
+
+You can learn more by clicking on the image below.  
+
+[![DR hill](https://user-images.githubusercontent.com/25202975/160120122-8bd8e230-c9ed-45cc-a320-f3a83cf6eeeb.png)](https://worldcouncilforhealth.org/multimedia/tess-lawrie-conversation-andrew-hill/)
+
 
 ## Informed Consent
 
@@ -157,6 +170,8 @@ coquindechien
 #### from panda
 
 [covid reporting](https://www.pandata.org/covid-19-deaths-underreported-or-overestimated/)
+
+##
 
 
 
