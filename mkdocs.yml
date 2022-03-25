@@ -1,6 +1,6 @@
 site_name: The Carronade
 theme: 
-  name: lumen
+  name: cerulean
   custom_dir: cannon_theme
 
 
